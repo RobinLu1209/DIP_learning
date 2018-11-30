@@ -27,3 +27,7 @@ All about Digital Image Processing(Course IE307) in Shanghai Jiao Tong Universit
 ### H.264/AVC视频编码
 - 首先你需要下载一个[JM软件](http://iphome.hhi.de/suehring/tml/download/)，就是那个.zip文件。
 - 对于具体的操作可以参考这个[链接](https://blog.csdn.net/shaqoneal/article/details/52081030)的相关内容。
+
+## Homework2 相关原理
+### H.264/AVC
+H.264 编解码的过程是怎样的？H.264 码流的结构是怎样的？ [资料1](https://blog.csdn.net/heyatzw/article/details/78271878)
