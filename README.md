@@ -14,9 +14,9 @@ All about Digital Image Processing(Course IE307) in Shanghai Jiao Tong Universit
 ### 实验准备
 - H.265/HEVC使用参考软件[HM（HEVC Test Model）](https://hevc.hhi.fraunhofer.de/svn/svn_HEVCSoftware/tags/)，HM需要使用SVN来下载，这里推荐使用[Tortoisesvn](https://tortoisesvn.net/downloads.html)，这是在Windows平台比较好用的SVN工具，安装好后，我们用它来下载好最新版本的HM。具体的方法见：[如何下载HM16.12参考代码参考链接1](https://blog.csdn.net/liangjiubujiu/article/details/80597783)      [如何下载HM16.12参考代码参考链接2](https://blog.csdn.net/qq_21747841/article/details/73188782)
 
-- 我在按照上述链接操作的过程中VScode告诉我"vs2017无法查找或打开 PDB 文件"，于是我通过这个[链接](https://blog.csdn.net/weixin_42731241/article/details/83070612)得到了解决方案，然后你需要经历较长时间的等待过程。然后在配置工程属性的时候一定要注意自己的文件名是否与语法保持一致。
+- 我在按照上述链接操作的过程中VScode告诉我"vs2017无法查找或打开 PDB 文件"，于是我通过这个[链接](https://blog.csdn.net/weixin_42731241/article/details/83070612)得到了解决方案，然后你需要经历较长时间的等待过程。
 
-- 下载完之后，你需要下载[YUV Sequences视频](http://trace.eas.asu.edu/yuv/index.html)
+- 上面的内容搞定之后，你需要下载[YUV Sequences视频](http://trace.eas.asu.edu/yuv/index.html) 然后在配置工程属性的时候一定要注意自己的文件名是否与语法保持一致。然后跑就是了，大概1分钟左右就可以得到生成的视频了。
 
 
 
