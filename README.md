@@ -22,7 +22,8 @@ All about Digital Image Processing(Course IE307) in Shanghai Jiao Tong Universit
 - 解码操作非常的简单，看这个[链接](https://blog.csdn.net/smilehehe110/article/details/54604954)就能很快操作得到结果。
 
 
-## Homework2-2 H.264视频编码和解码
+## Homework2-2 H.264/AVC视频编码和解码
 
-### H.264视频编码
-首先你需要下载一个[JM软件](http://iphome.hhi.de/suehring/tml/download/)，就是那个.zip文件。
+### H.264/AVC视频编码
+- 首先你需要下载一个[JM软件](http://iphome.hhi.de/suehring/tml/download/)，就是那个.zip文件。
+- 对于具体的操作可以参考这个[链接](https://blog.csdn.net/shaqoneal/article/details/52081030)的相关内容。
