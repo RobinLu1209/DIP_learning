@@ -17,6 +17,6 @@ H.265
 下载：https://hevc.hhi.fraunhofer.de/svn/svn_HEVCSoftware/tags/
 yuv序列下载：http://trace.eas.asu.edu/yuv/index.html
 注意：HM要16.12或以上
-H.264
+> H.264
 JM软件（zip）：http://iphome.hhi.de/suehring/tml/download/
 过程类似H.265
