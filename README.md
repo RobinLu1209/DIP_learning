@@ -10,14 +10,8 @@ All about Digital Image Processing(Course IE307) in Shanghai Jiao Tong Universit
 [二维离散傅里叶变换的矩阵表达式](https://blog.csdn.net/revitalise/article/details/83118966)
 
 ## Homework2-1 HEVC视频编码和解码
->操作过程：
-H.265
-编码：https://blog.csdn.net/smilehehe110/article/details/54604633
-解码：https://blog.csdn.net/smilehehe110/article/details/54604954
-下载：https://hevc.hhi.fraunhofer.de/svn/svn_HEVCSoftware/tags/
-yuv序列下载：http://trace.eas.asu.edu/yuv/index.html
-注意：HM要16.12或以上
 
-> H.264
-JM软件（zip）：http://iphome.hhi.de/suehring/tml/download/
-过程类似H.265
+### 实验准备
+H.265/HEVC使用参考软件[HM（HEVC Test Model）](https://hevc.hhi.fraunhofer.de/svn/svn_HEVCSoftware/tags/)，HM需要使用SVN来下载，这里推荐使用[Tortoisesvn](https://tortoisesvn.net/downloads.html)，这是在Windows平台比较好用的SVN工具，安装好后，我们用它来下载好最新版本的HM。
+
+具体的方法见：[如何下载HM16.12参考代码](https://blog.csdn.net/liangjiubujiu/article/details/80597783)
