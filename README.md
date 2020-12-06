@@ -1,3 +1,6 @@
+2020/12/6
+没想到自己几年前零零散散记录的东西对后人还有一些小小的帮助，祝大家使用愉快哈哈哈~加油哦！
+
 # DIP_learning
 All about Digital Image Processing(Course IE307) in Shanghai Jiao Tong University
 
